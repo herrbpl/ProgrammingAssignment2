@@ -12,6 +12,8 @@
 ## programming. 
 ## Function also checks if matrix is square-sized and if it has determinant=0
 
+## Reread and resubmitted 2015-01-14
+
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
    
